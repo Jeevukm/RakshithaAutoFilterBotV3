@@ -30,12 +30,12 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [Jeevan Shetty](
-https://t.me/jeevan_shetty)
+➥ Creator : [Naughty PROFESSOR]](
+https://youtube.com/c/NaughtyPROFESSOR)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://t.me/jeevan_shetty)
+➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
 """
